@@ -6,10 +6,10 @@ import json
 import csv
 from urllib.parse import urlparse
 
-# JSON formatted responses from bitly, 15 per line
-urlPath = '../data/expanded.txt'
-domainListPathOne = '../data/DomainList/domains.csv'
-domainListPathTwo = '../data/DomainList/malwaredomainlist.csv'
+# Path to JSON formatted responses from bitly, 15 per line
+urlPath = ''
+# Path to file with domains to compare against, .csv format
+domainListPathOne = ''
 
 urlData = []
 urlsArray = []

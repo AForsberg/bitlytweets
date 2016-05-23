@@ -56,4 +56,5 @@ if __name__ == '__main__':
 	# Streaming API
 	listener = StdOutListener()
 	stream = tweepy.Stream(auth, listener)
+	# KEYWORDS
 	stream.filter(track=['bit ly'])

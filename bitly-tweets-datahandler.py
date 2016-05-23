@@ -4,7 +4,7 @@ import json
 import bitlyextractor
 
 # Path to datafile
-tweetsPath = '../data/tweetsSplitaj'
+tweetsPath = ''
 
 # Object to hold our json data
 tweetsData = []

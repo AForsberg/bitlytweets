@@ -1,2 +1,6 @@
 # bitly-tweets
-Small python tool that extracts bit.ly links from twitters api using Tweepy. 
+Small python tools that searches for tweets containing bitly links and expands the original URL's. 
+
+Uses pip packages Tweepy and bitly_api.
+
+Looks for a file called 'conf.yml' for API authentication keys. 
