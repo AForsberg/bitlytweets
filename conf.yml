@@ -1,0 +1,10 @@
+twitter:
+ token: ''
+ token_secret: ''
+ consumer_key: ''
+ consumer_secret: ''
+
+bitly:
+ generic_token: ''
+ login: ''
+ api_key: ''

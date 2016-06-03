@@ -61,7 +61,4 @@ target/
 #Ipython Notebook
 .ipynb_checkpoints
 
-#CONFIG FILE
-conf.yml
-
 bitlyapipython/
